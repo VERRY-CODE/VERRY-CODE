@@ -1,4 +1,5 @@
-<h1>HI, My Names's Ferry Hidayat</h1>
+<h1>HI, My Names's Ferry Hidayat</h1><br>
+<h3>I'm still a beginner and still learning</h3><br><hr>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ve28ry) 
